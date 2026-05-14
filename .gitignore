@@ -1,0 +1,6 @@
+# files
+.env
+.debt-map.json
+
+# folders
+node_modules/
