@@ -1,6 +1,6 @@
 # files
 .env
-.debt-map.json
+debt-map.json
 
 # folders
 node_modules/
