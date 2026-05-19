@@ -36,6 +36,10 @@ It doesn't look so bad on a better display, it looks bad on this laptop lol
 
 Well that's it for now, I need to actually write out the processes that formats the data
 
+11:19 PM
+
+Oh also this laptop does not like it when I zoom in on an image in VS Code the GUI crashes lol
+
 ---
 
 ### 05/15/2026
