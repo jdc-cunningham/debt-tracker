@@ -1,3 +1,39 @@
+### 05/18/2026
+
+10:49 PM
+
+I'm mentally drained but I want to do something
+
+I want to start doing the image generation from charts
+
+I had a thought that the chart images can just be linked
+
+I'm gonna do a basic debt loss chart, the fees
+
+Bar graph in descending order
+
+I also need to add the credit limit per credit card
+
+11:03 PM
+
+It's so funny this laptop does smell like BO, like if you don't put deodorant on
+
+I'm using this server-side render library that I found/wrapper around Chart.js makes sense
+
+11:13 PM
+
+Alright got a chart to render but it has no bars...
+
+11:14 PM
+
+Oh right they need to be not transparent with rgba
+
+The quality is low maybe the width/height?
+
+
+
+---
+
 ### 05/15/2026
 
 8:21 PM
