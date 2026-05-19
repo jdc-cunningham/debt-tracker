@@ -40,6 +40,18 @@ Well that's it for now, I need to actually write out the processes that formats 
 
 Oh also this laptop does not like it when I zoom in on an image in VS Code the GUI crashes lol
 
+11:45 PM
+
+Watching tv and writing this, gonna get it plotted
+
+11:52 PM
+
+Alright got the debt interest/fees plotted
+
+Still need to inject it into the report, what was I was thinking about is how to undo, so it's not just a write
+
+Probably another file that's a history?...
+
 ---
 
 ### 05/15/2026

@@ -4,33 +4,20 @@ const { ChartConfiguration } = require("chart.js/auto");
 const path = require("path");
 const fs = require("fs");
 
-const generateBarChart = async () => {
+// array of ints
+const generateBarChart = async (data, label, filename) => {
     const width = 400;
     const height = 400;
 
     const configuration = {
         type: "bar",
         data: {
-            labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
+            labels: [...data.map(data => data.name)],
             datasets: [{
                 label: "votes",
-                data: [12, 19, 3, 5, 2, 3],
-                backgroundColor: [
-                  'rgba(0, 0, 0, 0.7)',
-                  'rgba(0, 0, 0, 0.7)',
-                  'rgba(0, 0, 0, 0.7)',
-                  'rgba(0, 0, 0, 0.7)',
-                  'rgba(0, 0, 0, 0.7)',
-                  'rgba(0, 0, 0, 0.7)',
-                ],
-                borderColor: [
-                  'rgba(0, 0, 0, 0.7)',
-                  'rgba(0, 0, 0, 0.7)',
-                  'rgba(0, 0, 0, 0.7)',
-                  'rgba(0, 0, 0, 0.7)',
-                  'rgba(0, 0, 0, 0.7)',
-                  'rgba(0, 0, 0, 0.7)',
-                ],
+                data: [...data.map(data => data.interestFees)],
+                backgroundColor: [...data.map(val => 'rgba(0, 0, 0, 0.7)')],
+                borderColor: [...data.map(val => 'rgba(0, 0, 0, 0.7)')],
                 borderWidth: 1
             }]
         },
@@ -54,7 +41,7 @@ const generateBarChart = async () => {
 
     const chartJSNodeCanvas = new ChartJSNodeCanvas({ width, height, chartCallback });
     const buffer = await chartJSNodeCanvas.renderToBuffer(configuration);
-    await fs.writeFileSync('./chart-images/chart.png', buffer, 'base64');
+    await fs.writeFileSync(`./chart-images/${filename}.png`, buffer, 'base64');
 };
 
 module.exports = {

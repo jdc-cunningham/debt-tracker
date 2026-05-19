@@ -1,5 +1,6 @@
 const fs = require("fs");
 const { generateBarChart } = require("./chart-gen");
+const { getDebtFees } = require("./data-format");
 const ogDebtData = fs.readFileSync("./debt-map.json"); // see debt-map-renamed.json for structure
 const debtData = [];
 
@@ -12,4 +13,5 @@ JSON.parse(ogDebtData).forEach((debt, index) => {
 
 fs.writeFileSync("./debt-map-renamed.json", JSON.stringify(debtData));
 
-generateBarChart();
+const debtFees = getDebtFees(debtData);
+generateBarChart(debtFees, 'debth interest and fees', 'debt-fees');
