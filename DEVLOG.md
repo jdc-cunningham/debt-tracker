@@ -30,7 +30,11 @@ Oh right they need to be not transparent with rgba
 
 The quality is low maybe the width/height?
 
+11:16 PM
 
+It doesn't look so bad on a better display, it looks bad on this laptop lol
+
+Well that's it for now, I need to actually write out the processes that formats the data
 
 ---
 
