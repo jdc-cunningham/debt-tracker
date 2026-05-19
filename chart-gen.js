@@ -14,7 +14,7 @@ const generateBarChart = async (data, label, filename) => {
         data: {
             labels: [...data.map(data => data.name)],
             datasets: [{
-                label: "votes",
+                label,
                 data: [...data.map(data => data.interestFees)],
                 backgroundColor: [...data.map(val => 'rgba(0, 0, 0, 0.7)')],
                 borderColor: [...data.map(val => 'rgba(0, 0, 0, 0.7)')],
