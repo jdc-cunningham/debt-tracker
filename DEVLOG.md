@@ -18,7 +18,13 @@ Not sure if I should take a brief swig of caffeine after my gym walk
 
 Alright let me make a quick function make a pi chart of available credit vs. utilized
 
+9:57 PM
 
+See the 2008 Macbook
+
+<img src="./devlog-images/macbook.JPG"/>
+
+With the 37.72 CPU load lol
 
 ---
 
