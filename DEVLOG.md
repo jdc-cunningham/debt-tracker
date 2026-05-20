@@ -1,3 +1,27 @@
+### 05/19/2026
+
+9:31 PM
+
+Had a reminder today of how bad my financial situation is
+
+CEL came on in my car, apparently related to the turbo
+
+It's a good challenge though, looks like something I can do
+
+But yeah I'm just f'd, need pi chart to show my available credit as back up
+
+Watching TV, I feel so drained/mentally spent this time of the night crazy
+
+Not sure if I should take a brief swig of caffeine after my gym walk
+
+9:47 PM
+
+Alright let me make a quick function make a pi chart of available credit vs. utilized
+
+
+
+---
+
 ### 05/18/2026
 
 10:49 PM

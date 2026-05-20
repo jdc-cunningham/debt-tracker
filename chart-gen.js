@@ -44,6 +44,10 @@ const generateBarChart = async (data, label, filename) => {
     await fs.writeFileSync(`./chart-images/${filename}.png`, buffer, 'base64');
 };
 
+const generatePieChart = (data, label, filename) => {
+  
+};
+
 module.exports = {
   generateBarChart
 }

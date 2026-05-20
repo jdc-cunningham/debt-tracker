@@ -1,6 +1,6 @@
 const fs = require("fs");
 const { generateBarChart } = require("./chart-gen");
-const { getDebtFees } = require("./data-format");
+const { getDebtFees, getAvailCred } = require("./data-format");
 const ogDebtData = fs.readFileSync("./debt-map.json"); // see debt-map-renamed.json for structure
 const debtData = [];
 
