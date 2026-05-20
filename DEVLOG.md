@@ -26,6 +26,12 @@ See the 2008 Macbook
 
 With the 37.72 CPU load lol
 
+10:02 PM
+
+Hehe my github copilot
+
+<img src="./devlog-images/copilot.JPG"/>
+
 ---
 
 ### 05/18/2026
