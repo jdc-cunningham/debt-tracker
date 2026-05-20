@@ -32,6 +32,10 @@ Hehe my github copilot
 
 <img src="./devlog-images/copilot.JPG"/>
 
+10:15 PM
+
+Lol this chart is funny the available credit is like a tiny sliver on the entire pie
+
 ---
 
 ### 05/18/2026
