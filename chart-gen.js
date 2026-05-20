@@ -57,8 +57,8 @@ const generatePieChart = async (data, label, filename) => {
           ],
           datasets: [{
               label,
-              data: [data[0], data[0] + data[1]],
-              backgroundColor: ['rgba(255, 247, 0, 0.7)', 'rgba(123, 255, 0, 0.7)'],
+              data: [data[1] - data[0], data[0]],
+              backgroundColor: ['rgba(123, 255, 0, 0.7)', 'rgba(229, 5, 5, 0.7)'],
               borderColor: ['rgba(0, 0, 0, 0.7)', 'rgba(0, 0, 0, 0.7)'],
               borderWidth: 1
           }]
