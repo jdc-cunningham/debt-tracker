@@ -1,3 +1,29 @@
+### 05/20/2026
+
+9:51 PM
+
+Not sure what I'll get done... I was thinking I'd add another bar chart for the debt in descending order by utilization
+
+Feeling spent though, don't even want to watch tv
+
+What sucks is my car will need work but maybe my warranty covers some of it
+
+Using the PixelBook 2017 right now to type this. The shallow keys aren't great compared to the Macbook 2008 keyboard.
+
+But the display and better performance is nice
+
+Still have not gotten suspend to work right on this laptop so it just keeps dying with Ubuntu
+
+9:54 PM
+
+Damn yeah got a headache
+
+Drank some coffee to see if I can work more after work
+
+Watched my hour-long The Boys finale though kind of wasted the night ahh well
+
+---
+
 ### 05/19/2026
 
 9:31 PM
