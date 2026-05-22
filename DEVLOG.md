@@ -1,3 +1,13 @@
+### 05/21/2026
+
+9:55 PM
+
+I need to keep track of the debts over time so I can show the decrease
+
+Lazy way is just a huge JSON file, it saves the current date/overwrite it every run
+
+---
+
 ### 05/20/2026
 
 9:51 PM
