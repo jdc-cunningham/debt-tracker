@@ -6,6 +6,20 @@ I need to keep track of the debts over time so I can show the decrease
 
 Lazy way is just a huge JSON file, it saves the current date/overwrite it every run
 
+10:48 PM
+
+I'm always so drained at this time, even drinking coffee doesn't help
+
+I wonder if that's me getting old or what
+
+It makes sense to pay off the highest fee cards first so I can use that extra money to pay down the other ones.
+
+It's that cliche snow ball vs. avalanche method
+
+I just need to be stable for another year or two then I can see the $0.00 net worth
+
+My speeding problem is my only problem lol
+
 ---
 
 ### 05/20/2026
