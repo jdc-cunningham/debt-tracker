@@ -20,6 +20,10 @@ I just need to be stable for another year or two then I can see the $0.00 net wo
 
 My speeding problem is my only problem lol
 
+11:01 PM
+
+Oh I haven't done the layout yet but it'll be aligning the images in 4 quardrants
+
 ---
 
 ### 05/20/2026
