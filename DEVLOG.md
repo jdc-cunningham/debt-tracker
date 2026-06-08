@@ -1,3 +1,49 @@
+### 06/07/2026
+
+7:52 PM
+
+Damn... I've been having a crazy life lmao
+
+I'm so poor right now, like maxed out all my credit cards, borrowing money from friends
+
+Bank account is in the red, it's bad... it's from drinking, lack of self control
+
+Last two days I've gone out sober, I'm looking for women, went home with one two weeks ago
+
+Once it's done you're back to being empty you know...
+
+I haven't made anything...
+
+Trying to get the passion back, the joy of making things, I'm just distracted
+
+I have to fix my finances though, that's the nice thing about being sober like I can drive my car, no uber cost, don't spend too much on drinking... usually I drink a red bull or some NA beer.
+
+At first chatting up girls is hard being sober but yeah... trying to find good conversations not just physical
+
+I'll fill this out to show how f'd I am curently.
+
+I sold my $1k radar detector to have some money, I'm done speeding too so that's good
+
+Man I freaking love this laptop this $80 2017 Pixelbook
+
+My body and hair is looking good, I've been keeping up with my workouts, I'm ripped af right now and dieting so I'm in the 220s trying to get to 210s where I'll have visible abs without flexing.
+
+Yeah... I'm looking forward to the weekend, more bar hopping, meeting people
+
+But I need to work until then, day job and side stuff
+
+Loneliness is distracting man, when you want something and you don't get it
+
+I have learned what I've been doing wrong, giving the girl an ultimatum like "choose now" two weeks ago the girl asked me to go home with her which is a first for me
+
+Me selling the radar detector is a good thing, I'm finally done hitting triple digits, now I'm just after chicks lol, can't do that in a jail cell
+
+There is a chart I wanted to make, it's a stacked area line graph kind of thing, shows debt vs. cash. Could be available credit vs. total credit line but I already have that with the pie chart.
+
+I still don't feel like doing anything right now so probably not gonna write any code
+
+---
+
 ### 05/21/2026
 
 9:55 PM
