@@ -42,6 +42,10 @@ There is a chart I wanted to make, it's a stacked area line graph kind of thing,
 
 I still don't feel like doing anything right now so probably not gonna write any code
 
+8:43 PM
+
+There is one thing I noticed that's wrong, negative balance shouldn't be treated as positive
+
 ---
 
 ### 05/21/2026

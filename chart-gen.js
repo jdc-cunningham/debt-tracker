@@ -44,6 +44,8 @@ const generateBarChart = async (data, label, filename) => {
     await fs.writeFileSync(`./chart-images/${filename}.png`, buffer, 'base64');
 };
 
+const toZero = num => num < 0 ? 0 : num;
+
 const generatePieChart = async (data, label, filename) => {
   const width = 400;
   const height = 400;
@@ -57,7 +59,7 @@ const generatePieChart = async (data, label, filename) => {
           ],
           datasets: [{
               label,
-              data: [data[1] - data[0], data[0]],
+              data: [toZero(data[1] - data[0]), data[0]],
               backgroundColor: ['rgba(123, 255, 0, 0.7)', 'rgba(229, 5, 5, 0.7)'],
               borderColor: ['rgba(0, 0, 0, 0.7)', 'rgba(0, 0, 0, 0.7)'],
               borderWidth: 1
