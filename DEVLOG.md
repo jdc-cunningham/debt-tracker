@@ -50,6 +50,10 @@ There is one thing I noticed that's wrong, negative balance shouldn't be treated
 
 I miss making things... passion, heart...
 
+10:12 PM
+
+I don't like how exposed I am, need a tow or something, I'm just f'd that's why I need self control and have a credit line
+
 ---
 
 ### 05/21/2026
