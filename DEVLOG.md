@@ -46,6 +46,10 @@ I still don't feel like doing anything right now so probably not gonna write any
 
 There is one thing I noticed that's wrong, negative balance shouldn't be treated as positive
 
+9:54 PM
+
+I miss making things... passion, heart...
+
 ---
 
 ### 05/21/2026
