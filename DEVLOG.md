@@ -1,3 +1,39 @@
+### 06/28/2026
+
+5:38 PM
+
+Alright... so after being cringe, borrowing money from friends, I don't want to be broke again
+
+I've been going out several nights a week for like the last month, it's crazy
+
+I met a lot of people, new friends... I don't know... I kind of lost the drive to do anything
+
+Lost motivation... I think I'm getting it back but yeah
+
+Starting this week I'm going to start going to the maker space I signed up for, probably start skateboarding because I haven't skated in 10 years and I'm fucking terrible at it right now
+
+But yeah, will keep going out, I just don't want to be broke
+
+Going to just pay minimums for now to build up a safety net of money
+
+I literally went to a coinstar for gas lol, it was bad, I counted $3.95 in quarters and dimes or whatever to get almost a gallon of gas, then I had to drive to another place with a working coinstar
+
+But yeah... don't want to be poor
+
+I don't have food right now, I've got like 3 eggs left, some apples
+
+I should get paid tomorrow, will pay people back
+
+My car is acting up too, not sure if it's the battery or crank sensor idk...
+
+But yeah been having though, went on a date
+
+I was just trying to fill up this void you know which I'm still doing
+
+Last night hung out with some girls that were smoking at this smoking area, got their instas
+
+---
+
 ### 06/07/2026
 
 7:52 PM
